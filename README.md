@@ -33,6 +33,7 @@ Topics include:
 - Nmap
 - Wireshark
 - Netstat
+- John the Ripper 
 - Linux commands
 - Network analysis
 
